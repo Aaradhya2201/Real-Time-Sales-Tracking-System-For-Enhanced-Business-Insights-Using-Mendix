@@ -33,5 +33,7 @@ Built in Mendix, this system uses:
 - Predictive analytics for sales trends.
 
 ## Contributors
-- [Aaradhya Bali] - Developer
+- [Gaurav Katre] - Developer
+- [Aaradhya Bali]- Developer
+- [Kaushik Tamgadge]- Developer 
 
